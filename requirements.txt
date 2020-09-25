@@ -1,0 +1,7 @@
+torch
+transformers
+tqdm
+nltk
+pandas
+tensorflow
+requests
